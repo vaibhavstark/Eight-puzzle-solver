@@ -1,8 +1,3 @@
-
-// Name: Muhammad Fawad Jawaid Malik
-// Roll No. 11k - 2116
-// Submitted To: Sir Rafi
-
 #include<iostream>
 #include<fstream>
 #include<math.h>
